@@ -1,0 +1,9 @@
+{
+  "host": "192.168.101.14",
+  "port": 80,
+  "username": "admin",
+  "password": "wx123456",
+  "scheme": "http",
+  "bridge_host": "127.0.0.1",
+  "bridge_port": 0
+}

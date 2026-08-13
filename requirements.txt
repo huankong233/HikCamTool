@@ -1,0 +1,4 @@
+PySide6>=6.6
+requests>=2.25
+tqdm>=4.60
+xmltodict>=0.13
